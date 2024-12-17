@@ -1,0 +1,156 @@
+html {
+  background-color: white;
+ }
+
+.teams {
+  background-color: white;
+  height: 45px;
+  width: 100%;
+display: flex;
+  justify-content: center;
+}
+
+div[class="teams"] a,b{
+  border-radius: 120px;
+  width:1px;
+  height:1px;
+  background-color: white;
+  display: inline-block;
+  padding: 20px;
+  border-right: 20px;
+  margin: 90px
+  transition; transform: 0.5s ease-in-out;
+  }
+
+div[class="teams"] a:hover{
+transform: scale(1.1);
+}
+
+.t1{
+    background-image: url("sd.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+padding: 20px;
+  }
+.t2{
+    background-image: url("t2.jpg");
+background-repeat: no-repeat;
+    background-size: cover;
+padding: 20px;
+  }
+.t3{
+    background-image: url("t3.jpg");
+background-repeat: no-repeat;
+    background-size: cover;
+  }
+.t4{
+    background-image: url("t4.jpg");
+background-repeat: no-repeat;
+    background-size: cover;
+  }
+.t5{
+    background-image: url("t5.jpg");
+background-repeat: no-repeat;
+    background-size: cover;
+  }
+.t6{
+    background-image: url("t6.jpg");
+background-repeat: no-repeat;
+    background-size: cover;
+  }
+.t7{
+    background-image: url("t7.jpg");
+background-repeat: no-repeat;
+    background-size: cover;
+  }
+.t8{
+    background-image: url("t8.jpg");
+background-repeat: no-repeat;
+    background-size: cover;
+  }
+.t9{
+    background-image: url("t9.jpg");
+background-repeat: no-repeat;
+    background-size: cover;
+  }
+.t10{
+    background-image: url("t10.jpg");
+background-repeat: no-repeat;
+    background-size: cover;
+  }
+.t11{
+    background-image: url("t11.jpg");
+background-repeat: no-repeat;
+    background-size: cover;
+  }
+.t12{
+    background-image: url("t1.jpg");
+background-repeat: no-repeat;
+    background-size: cover;
+  }
+
+
+.homelogo{
+  width: 100%;
+  height:110px;
+  background-image:url("leaguetheme.jpg");
+  }
+
+div[class="homelogo"] a{
+ border-radius:260px;
+width:95px;
+height:95px;
+display:flex;
+}
+
+.leagueicon{
+background-image: url("league2.jpeg");
+background-repeat: no-repeat;
+    background-size: cover;
+  justify-content: center;
+  }
+
+.menu{
+  height:50px;
+  width:100%;
+  border:none;
+    justify-content: left;
+ margin-left:180px;
+background-color:white;
+  }
+
+div[class="menu"] a{
+  border: none ;
+  border-radius: 100px;
+  width:7%;
+  height:20%;
+color:grey;
+  display: inline-block;
+   padding-bottom:20px ;
+padding-left:15px ;
+  text-decoration: none;
+  margin: 10px;
+font-family:"halvetica",sans-serif;
+font-weight:bold;
+font-size:15px;
+  }
+div[class="menu"] a:hover{
+ color:black;
+
+border-bottom:solid;
+border-color:lightblue;
+border:4px;
+  }
+iframe{
+  border: none ;
+  width:58%;
+  height:380px;
+ padding: 14px;
+margin:10px;
+  
+  }
+
+
+
+
+

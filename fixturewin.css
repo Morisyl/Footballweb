@@ -1,0 +1,141 @@
+html{
+background-color:white;
+}
+
+.GW{
+padding:25px;
+color:rebeccapurple;
+font-weight:bold;
+font-size:25px;
+}
+
+.game{
+border:none;
+	width:100%;
+	height:55px;
+	padding:5px;
+display: inline-block;
+display: flex;
+  justify-content: left;
+margin:20px;
+
+  }
+
+
+div[class="game"] div{
+width:30px;
+  height:30px;
+   
+display: inline-block;
+display: flex;
+  justify-content: left;
+margin:20px;
+
+}
+
+.game:hover{
+	color:white;
+	background-color: blue;
+  }
+
+div[class="game"] div:hover{
+ background-color:blue;
+}
+
+.h1{
+width:1px;
+  height:1px;
+   border-radius: 200px;
+    background-image: url("t1.jpg");
+background-repeat: no-repeat;
+    background-size: cover;
+  }
+.h2{
+width:1px;
+  height:1px;
+border-radius: 150px;
+    background-image: url("t2.jpg");
+background-repeat: no-repeat;
+    background-size: cover;
+  }
+
+.a1{
+width:1px;
+  height:1px;
+border-radius: 150px;
+    background-image: url("t5.jpg");
+background-repeat: no-repeat;
+    background-size: cover;
+  }
+.a2{
+width:1px;
+  height:1px;
+border-radius: 150px;
+    background-image: url("t6.jpg");
+background-repeat: no-repeat;
+    background-size: cover;}
+.h3{
+width:1px;
+  height:1px;
+   border-radius: 200px;
+    background-image: url("t10.jpg");
+background-repeat: no-repeat;
+    background-size: cover;
+  }
+.h4{
+width:1px;
+  height:1px;
+border-radius: 150px;
+    background-image: url("t4.jpg");
+background-repeat: no-repeat;
+    background-size: cover;
+  }
+
+.a3{
+width:1px;
+  height:1px;
+border-radius: 150px;
+    background-image: url("t11.jpg");
+background-repeat: no-repeat;
+    background-size: cover;
+  }
+.a4{
+width:1px;
+  height:1px;
+border-radius: 150px;
+    background-image: url("t9.jpg");
+background-repeat: no-repeat;
+    background-size: cover;
+}
+.h5{
+width:1px;
+  height:1px;
+   border-radius: 200px;
+    background-image: url("t8.jpg");
+background-repeat: no-repeat;
+    background-size: cover;
+  }
+.h6{
+width:1px;
+  height:1px;
+border-radius: 150px;
+    background-image: url("t3.jpg");
+background-repeat: no-repeat;
+    background-size: cover;
+  }
+
+.a5{
+width:1px;
+  height:1px;
+border-radius: 150px;
+    background-image: url("t7.jpg");
+background-repeat: no-repeat;
+    background-size: cover;
+  }
+.a6{
+width:1px;
+  height:1px;
+border-radius: 150px;
+    background-image: url("sd.jpg");
+background-repeat: no-repeat;
+    background-size: cover;}

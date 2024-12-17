@@ -1,0 +1,45 @@
+table{
+width: 100%;
+display: flex;
+justify-content: center;
+font-style:bold;
+}
+
+.team{
+padding: 4px;
+width: 190px;
+height: 35px;
+border-width:thin;
+margin: none;
+}
+
+th{
+background-color: rebeccapurple;
+padding: 4px;
+width: 50px;
+height: 35px;
+border:solid;
+margin: none;
+border-width:thin;
+color:white;
+}
+
+
+td{
+padding: 4px;
+width: 50px;
+height: 35px;
+border:solid;
+margin: none;
+border-width:thin;
+}
+
+.top{
+background-color: pink;
+}
+
+.bottom{
+background-color: red;
+color:white;
+}
+
